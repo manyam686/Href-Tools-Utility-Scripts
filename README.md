@@ -21,5 +21,6 @@ PostgreSQL database.
 ## Article Clean Up
 A python script to go through the articles in the PostgreSQL database and clean
 up the html markup.
+### Requirements
 * beautifulsoup4: 4.10.0
 * psycopg2: 2.9.3
